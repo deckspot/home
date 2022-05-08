@@ -1,0 +1,584 @@
+Uri: https://deckspot.info/
+File Name: c:\Downloaded Web Sites\deckspot.info\index.htm
+Content Type: text/html
+
+Uri: https://deckspot.info/_img/parallax-1.html
+File Name: c:\Downloaded Web Sites\deckspot.info\_img\parallax-1.html
+Content Type: text/html
+
+Uri: https://deckspot.info/_img/parallax-4.html
+File Name: c:\Downloaded Web Sites\deckspot.info\_img\parallax-4.html
+Content Type: text/html
+
+Uri: https://deckspot.info/_img/parallax-5.jpg_
+File Name: c:\Downloaded Web Sites\deckspot.info\_img\parallax-5.bin
+Content Type: application/octet-stream
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/css.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\css.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/css_003.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\css_003.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/css_002.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\css_002.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/font-awesome.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/owl_002.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\owl_002.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/owl.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\owl.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/style.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\style.css
+Content Type: text/css
+
+Uri: https://deckspot.info/css/color-green.css
+File Name: c:\Downloaded Web Sites\deckspot.info\css\color-green.css
+Content Type: text/css
+
+Uri: https://deckspot.info/js/sweetalert2%4010.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\sweetalert2@10.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/images/deckspot.png
+File Name: c:\Downloaded Web Sites\deckspot.info\images\deckspot.png
+Content Type: image/png
+
+Uri: https://deckspot.info/images/metro1.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\metro1.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/images/Objecttives.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\Objecttives.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/OUR%2520MISSION-01.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\OUR%20MISSION-01.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/metro5.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\metro5.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/metro2.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\metro2.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/metro3.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\metro3.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/metro4.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\metro4.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/images/contact-2.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\contact-2.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/images/contact-3.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\images\contact-3.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/images/jquery-3.js
+File Name: c:\Downloaded Web Sites\deckspot.info\images\jquery-3.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/popper.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\popper.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/bootstrap.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/plugins.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/chart-custom.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\chart-custom.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/particles.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\particles.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/custom.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\custom.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/jquery.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/web3.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\web3.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/js/app.js
+File Name: c:\Downloaded Web Sites\deckspot.info\js\app.js
+Content Type: application/javascript
+
+Uri: https://deckspot.info/gtag/jse911e911.html?id=G-MTF7MEWW16
+File Name: c:\Downloaded Web Sites\deckspot.info\gtag\jse911e911.html
+Content Type: text/html
+
+Uri: https://deckspot.info/index.html
+File Name: c:\Downloaded Web Sites\deckspot.info\index.html
+Content Type: text/html
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont-1.eot
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://deckspot.info/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiAJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiAJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJpp_c.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBiEJpp_c.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBi8Jpg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQBi8Jpg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtA.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiGyp8kv8JHgFVrLPTucHtA.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiGyp8kv8JHgFVrLPTucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/poppins/v19/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\poppins\v19\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlpogwHKFkZgtmSR3NB0oRJfajhRK_Y.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlpogwHKFkZgtmSR3NB0oRJfajhRK_Y.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlprgwHKFkZgtmSR3NB0oRJfajCOD-NS_LU.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlprgwHKFkZgtmSR3NB0oRJfajCOD-NS_LU.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlprgwHKFkZgtmSR3NB0oRJfajDqDuNS_LU.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlprgwHKFkZgtmSR3NB0oRJfajDqDuNS_LU.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlp2gwHKFkZgtmSR3NB0oRJfbwhT.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlppgwHKFkZgtmSR3NB0oRJXsCxGDNNQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlppgwHKFkZgtmSR3NB0oRJXsCxGDNNQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/s/crimsontext/v13/wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNQ.woff2
+File Name: c:\Downloaded Web Sites\deckspot.info\s\crimsontext\v13\wlppgwHKFkZgtmSR3NB0oRJX1C1GDNNQ.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/fonts/fontawesome-webfont3e6e3e6e.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfont3e6e3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deckspot.info/fonts/fontawesome-webfontd41dd41d.eot?
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfontd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deckspot.info/fonts/fontawesome-webfont3e6e3e6e.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfont3e6e3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://deckspot.info/fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfont3e6e3e6e.woff
+Content Type: font/woff
+
+Uri: https://deckspot.info/fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfont3e6e3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://deckspot.info/fonts/fontawesome-webfont3e6e3e6e.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\deckspot.info\fonts\fontawesome-webfont3e6e3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/arrow-up.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/arrow-up-light.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\arrow-up-light.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/wave-dark.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\wave-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/wave-blue.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\wave-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/wave.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\wave.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/let.jpg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\let.jpg
+Content Type: image/jpeg
+
+Uri: https://deckspot.info/img/check.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\check.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/check-green.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\check-green.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/cur-check.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\cur-check.svg
+Content Type: image/svg+xml
+
+Uri: https://deckspot.info/img/cur-check-green.svg
+File Name: c:\Downloaded Web Sites\deckspot.info\img\cur-check-green.svg
+Content Type: image/svg+xml
+
